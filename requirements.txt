@@ -1,0 +1,3 @@
+flet
+mysql-connector-python
+requests
